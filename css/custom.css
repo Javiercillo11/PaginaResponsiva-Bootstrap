@@ -1,0 +1,28 @@
+#header {
+    background-color: blue;
+    color: white;
+}
+
+#header h3,h1,p {
+    text-align: center;
+}
+
+#header form {
+    margin: 0 auto;
+    display: flex;
+    width: 300px;
+}
+
+#footer p{
+    text-align: center;
+    color: white;
+}
+
+#blog p{
+    text-align: left;
+}
+
+#pag{
+    margin: 0 auto;
+    display: flex;
+}
